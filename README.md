@@ -146,7 +146,7 @@ AttendanceManagementSystem
 
 ---
 
-# 🗄 Database Schema
+# Database Schema
 
 The project contains **11 core tables**.
 
@@ -166,7 +166,7 @@ The project contains **11 core tables**.
 
 ---
 
-# 🚀 Installation
+# Installation
 
 ## Prerequisites
 
@@ -212,7 +212,7 @@ http://localhost:8080/AttendanceManagementSystem/
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 Add screenshots inside a `screenshots/` folder.
 
@@ -232,7 +232,7 @@ Add screenshots inside a `screenshots/` folder.
 
 ---
 
-# 🔄 CRUD Modules
+# CRUD Modules
 
 | Module | Create | Read | Update | Delete |
 |----------|:------:|:----:|:------:|:------:|
@@ -246,7 +246,7 @@ Add screenshots inside a `screenshots/` folder.
 
 ---
 
-# 🧪 Testing
+# Testing
 
 ### Functional Testing
 
@@ -272,7 +272,7 @@ Add screenshots inside a `screenshots/` folder.
 
 ---
 
-# 🚧 Challenges
+# Challenges
 
 - Implementing complete MVC architecture
 - Preventing duplicate attendance records
