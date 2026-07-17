@@ -11,7 +11,7 @@ A secure, role-based **Attendance Management System** built using **Java EE (Ser
 
 ---
 
-# 📑 Table of Contents
+# Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -32,7 +32,7 @@ A secure, role-based **Attendance Management System** built using **Java EE (Ser
 
 ---
 
-# 📖 Overview
+# Overview
 
 Traditional attendance systems rely on paper registers or spreadsheets, making record management slow, error-prone, and difficult to audit.
 
@@ -47,24 +47,24 @@ This project provides a centralized web application that allows organizations to
 
 ---
 
-# ✨ Features
+# Features
 
-- 🔐 Secure Login using BCrypt Password Hashing
-- 👥 Role-Based Access Control
-- ⏰ Check-In / Check-Out Attendance
-- 📝 Leave Request & Approval Workflow
-- 🏢 Department Management
-- 🕒 Shift Management
-- 🎉 Holiday Management
-- 📢 Organization Announcements
-- 📊 Attendance Reports
-- 🔍 Audit Logging
-- 📱 Responsive Interface
+- Secure Login using BCrypt Password Hashing
+- Role-Based Access Control
+- Check-In / Check-Out Attendance
+- Leave Request & Approval Workflow
+- Department Management
+- Shift Management
+- Holiday Management
+- Organization Announcements
+- Attendance Reports
+- Audit Logging
+- Responsive Interface
 - 📁 CSV Report Export
 
 ---
 
-# 👥 User Roles
+# User Roles
 
 | Role | Responsibilities |
 |------|------------------|
@@ -76,7 +76,7 @@ This project provides a centralized web application that allows organizations to
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -92,7 +92,7 @@ This project provides a centralized web application that allows organizations to
 
 ---
 
-# 🏗 Architecture
+# Architecture
 
 The application follows the **Model-View-Controller (MVC)** architecture.
 
@@ -120,7 +120,7 @@ JSP Views
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 AttendanceManagementSystem
@@ -282,7 +282,7 @@ Add screenshots inside a `screenshots/` folder.
 
 ---
 
-# 📈 SWOT Analysis
+# SWOT Analysis
 
 | Strengths | Weaknesses |
 |------------|------------|
@@ -300,20 +300,20 @@ Add screenshots inside a `screenshots/` folder.
 
 ---
 
-# 🔮 Future Enhancements
+# Future Enhancements
 
-- 📱 Mobile Application
-- 🔐 Biometric Authentication
-- 📊 Interactive Dashboard
-- 🔔 Real-time Notifications
-- 🌐 Multi-language Support
-- ☁ Cloud Deployment
-- 🤖 AI Attendance Analytics
-- 📧 Email & SMS Notifications
+- Mobile Application
+- Biometric Authentication
+- Interactive Dashboard
+- Real-time Notifications
+- Multi-language Support
+- Cloud Deployment
+- AI Attendance Analytics
+- Email & SMS Notifications
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Neha K.C. (Khatri)**
 
@@ -327,7 +327,7 @@ Add screenshots inside a `screenshots/` folder.
 
 ---
 
-# 📄 License
+# License
 
 This project is submitted as academic coursework.
 
@@ -337,7 +337,7 @@ This project is submitted as academic coursework.
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 - London Metropolitan University
 - ISMT College
