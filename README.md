@@ -1,4 +1,4 @@
-# 📋 Attendance Management System
+# Attendance Management System
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-Servlets%20%26%20JSP-blue)
