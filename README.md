@@ -317,14 +317,6 @@ Add screenshots inside a `screenshots/` folder.
 
 **Neha K.C. (Khatri)**
 
-**London Met ID:** 24046602
-
-**College ID:** NP01AI4A240137
-
-**Module:** CS5003NI – Data Structure and Specialist Programming
-
-**Institution:** London Metropolitan University (Affiliated with ISMT College)
-
 ---
 
 # License
